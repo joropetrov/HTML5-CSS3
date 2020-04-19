@@ -1,0 +1,20 @@
+#my_header {width: 100%}
+
+#my_menu {
+width: 20%;
+min-width: 200px;
+float: left
+}
+
+#my_content {
+    width: 80%;
+    height: 300px;
+    float: left;
+    overflow: auto
+}
+
+#my_footer {
+    width: 100%;
+    clear: both
+    
+}
